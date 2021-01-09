@@ -1,0 +1,10 @@
+f:\diyou计算器\diyou计算器\obj\Debug\diyou计算器.csprojAssemblyReference.cache
+f:\diyou计算器\diyou计算器\obj\Debug\diyou计算器.Form1.resources
+f:\diyou计算器\diyou计算器\obj\Debug\diyou计算器.Properties.Resources.resources
+f:\diyou计算器\diyou计算器\obj\Debug\diyou计算器.csproj.GenerateResource.cache
+f:\diyou计算器\diyou计算器\obj\Debug\diyou计算器.csproj.CoreCompileInputs.cache
+f:\diyou计算器\diyou计算器\bin\Debug\diyou计算器.exe.config
+f:\diyou计算器\diyou计算器\bin\Debug\diyou计算器.exe
+f:\diyou计算器\diyou计算器\bin\Debug\diyou计算器.pdb
+f:\diyou计算器\diyou计算器\obj\Debug\diyou计算器.exe
+f:\diyou计算器\diyou计算器\obj\Debug\diyou计算器.pdb
